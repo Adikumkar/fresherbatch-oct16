@@ -1,7 +1,5 @@
-line one changed.
+line one changed line one changed (js), line one again changed (master).
 Contents
-<<<<<<< HEAD
 line three changed.
-=======
->>>>>>> css-assignments
 html Assignments.
+
